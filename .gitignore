@@ -1,0 +1,9 @@
+## Workspace ignored files
+*.code-workspace
+.idea
+
+## Environment Files
+.env
+
+##verndor files
+/node_modules
